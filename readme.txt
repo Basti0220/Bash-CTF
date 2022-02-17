@@ -1,6 +1,14 @@
 
-Herzlich willkommen!
 
--> Erstelle einen neuen Ordner mit dem Namem "data".
 
--> AI.sh ausführen.
+Hey, gut gemacht!
+
+-> Sprich mit dem Drachen.
+
+-> Finde den Weg!
+
+-> Sei vorsichtig, die Firewall beobachtet dich.
+
+-> Übrigens: Drachen lieben Kakao!
+
+
